@@ -1,0 +1,50 @@
+body{
+	margin:0;
+	padding:0;
+	background-image:url(aboutus_new.jpg);
+	background-size:cover;
+	font-family:gabriel;
+
+}
+.title
+{   
+	text-align:center;
+	padding:50px 0 20px;
+}
+.title h1
+{
+	margin: 0;
+	padding: 0;
+	color:black;
+	text-transform:uppercase;
+	font-size:36px;
+}
+.container_aboutus
+{
+	opacity:0.7;
+	width:50%;
+	height:400px;
+	background:#55d6aa;
+	margin:0 auto;
+	border : 2px solid #fff;
+	box-shadow: 0 15px 40px rgba(0,0,0,.5);
+}
+.container .left
+{
+	float:left;
+	width:50%;
+	height:400px;
+	background-image:url(loginBG.jpg);
+	background-size:cover;
+	box-sizing:border-box;
+}
+.container .right
+{
+    float:left;
+	width:50%;
+	height:400px;
+    box-sizing:border-box;
+}
+.logo_ab{
+	float:center;
+}
